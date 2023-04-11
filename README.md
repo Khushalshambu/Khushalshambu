@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Khushalshambu
-- 👀 I’m interested in photography 
-- 🌱 I’m currently learning big data analytics
-- 💞️ I’m looking to collaborate on c# and other languages which are in my course
+- 🌱 Graduated in Big Data and Project Management
+- I code in Java and Python.
+- And Do my data analysis in PySpark, Hive and PowerBi
 - 📫 Reach me at kushalshambu@gmail.com
+- - 👀 Also, I’m interested in Photography.
 
 <!---
 Khushalshambu/Khushalshambu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
